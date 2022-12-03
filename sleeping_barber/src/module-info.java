@@ -1,0 +1,2 @@
+module sleeping_barber {
+}

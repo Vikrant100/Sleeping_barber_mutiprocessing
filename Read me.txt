@@ -1,0 +1,3 @@
+1. sleeping_barber(folder) = Project files exported from eclispse
+2. ASSIGNMENT 1 Sleeping barber with multithreading and multicore = Report in pdf format and also in word(.docx) format.
+3. customer.java, sleeping_barber.java, barber.java = created java files individually extracted from the project file.
